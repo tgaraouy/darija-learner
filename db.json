@@ -1,0 +1,2306 @@
+{
+    "words": [
+      {
+        "id": 1,
+        "darija": "عندي",
+        "phonetic": "3ndi",
+        "arabicScript": "عَنْدِيْ",
+        "msaEquivalent": "لدي",
+        "region": "Casablanca",
+        "usageDarija": [
+          "عندي موعد مع الطبيب.",
+          "عندي بزاف ديال الحوايج ندير اليوم.",
+          "عندي غير شوية ديال الفلوس."
+        ],
+        "usageFrench": [
+          "J'ai un rendez-vous chez le médecin.",
+          "J'ai beaucoup de choses à faire aujourd'hui.",
+          "Je n'ai qu'un peu d'argent."
+        ],
+        "usageEnglish": [
+          "I have a doctor's appointment.",
+          "I have a lot of things to do today.",
+          "I only have a little money."
+        ]
+      },
+      {
+        "id": 2,
+        "darija": "فين",
+        "phonetic": "fin",
+        "arabicScript": "فِيْنْ",
+        "msaEquivalent": "أين",
+        "region": "Rabat",
+        "usageDarija": [
+          "فين غادي؟",
+          "فين كاين السوق؟",
+          "فين حطيت المفتاح ديالي؟"
+        ],
+        "usageFrench": [
+          "Où vas-tu?",
+          "Où se trouve le marché?",
+          "Où ai-je mis ma clé?"
+        ],
+        "usageEnglish": [
+          "Where are you going?",
+          "Where is the market?",
+          "Where did I put my key?"
+        ]
+      },
+      {
+        "id": 3,
+        "darija": "خدم",
+        "phonetic": "khddem",
+        "arabicScript": "خْدَّمْ",
+        "msaEquivalent": "عمل",
+        "region": "Marrakech",
+        "usageDarija": [
+          "خاصني نخدم بزاف اليوم.",
+          "خدم معايا في هاد المشروع.",
+          "خدمتي زوينة بزاف."
+        ],
+        "usageFrench": [
+          "Je dois travailler beaucoup aujourd'hui.",
+          "Travaille avec moi sur ce projet.",
+          "Ton travail est vraiment bien."
+        ],
+        "usageEnglish": [
+          "I need to work a lot today.",
+          "Work with me on this project.",
+          "Your work is really good."
+        ]
+      },
+      {
+        "id": 4,
+        "darija": "بغيت",
+        "phonetic": "bghit",
+        "arabicScript": "بْغِيتْ",
+        "msaEquivalent": "أريد",
+        "region": "Fes",
+        "usageDarija": [
+          "بغيت شي حاجة نكول.",
+          "بغيت نمشي نشوف الفيلم الجديد.",
+          "بغيت نتعلم حاجة جديدة."
+        ],
+        "usageFrench": [
+          "Je veux quelque chose à manger.",
+          "Je veux aller voir le nouveau film.",
+          "Je veux apprendre quelque chose de nouveau."
+        ],
+        "usageEnglish": [
+          "I want something to eat.",
+          "I want to go see the new movie.",
+          "I want to learn something new."
+        ]
+      },
+      {
+        "id": 5,
+        "darija": "سمحلي",
+        "phonetic": "sma7 li",
+        "arabicScript": "سْمَحْلِي",
+        "msaEquivalent": "عذرني",
+        "region": "Tangier",
+        "usageDarija": [
+          "سمحلي، معنديش الوقت دابا.",
+          "سمحلي، غالطت فهاد المسألة.",
+          "سمحلي على التأخير."
+        ],
+        "usageFrench": [
+          "Excuse-moi, je n'ai pas le temps maintenant.",
+          "Excuse-moi, je me suis trompé sur ce point.",
+          "Excuse-moi pour le retard."
+        ],
+        "usageEnglish": [
+          "Sorry, I don't have time right now.",
+          "Sorry, I made a mistake on this matter.",
+          "Sorry for the delay."
+        ]
+      },
+      {
+        "id": 6,
+        "darija": "واش",
+        "phonetic": "wash",
+        "arabicScript": "وَاشْ",
+        "msaEquivalent": "هل",
+        "region": "Agadir",
+        "usageDarija": [
+          "واش نجي معاك؟",
+          "واش فهمتي الدرس؟",
+          "واش كاين شي مشكلة؟"
+        ],
+        "usageFrench": [
+          "Est-ce que je viens avec toi?",
+          "As-tu compris la leçon?",
+          "Y a-t-il un problème?"
+        ],
+        "usageEnglish": [
+          "Should I come with you?",
+          "Did you understand the lesson?",
+          "Is there a problem?"
+        ]
+      },
+      {
+        "id": 7,
+        "darija": "شحال",
+        "phonetic": "ch7al",
+        "arabicScript": "شْحَالْ",
+        "msaEquivalent": "كم",
+        "region": "Casablanca",
+        "usageDarija": [
+          "شحال الساعة؟",
+          "شحال هاد الشي كايسوى؟",
+          "شحال عندك فلوس؟"
+        ],
+        "usageFrench": [
+          "Quelle heure est-il?",
+          "Combien ça coûte?",
+          "Combien d'argent as-tu?"
+        ],
+        "usageEnglish": [
+          "What time is it?",
+          "How much does this cost?",
+          "How much money do you have?"
+        ]
+      },
+      {
+        "id": 8,
+        "darija": "حيت",
+        "phonetic": "7it",
+        "arabicScript": "حِيْتْ",
+        "msaEquivalent": "لأن",
+        "region": "Meknes",
+        "usageDarija": [
+          "حيت كيعجبني, شريت هاد الكتاب.",
+          "مشيت معاه حيت صاحبي.",
+          "حيت الجو مزيان، خرجت نمشي."
+        ],
+        "usageFrench": [
+          "Parce que je l'aime bien, j'ai acheté ce livre.",
+          "Je suis allé avec lui parce qu'il est mon ami.",
+          "Parce qu'il fait beau, je suis sorti marcher."
+        ],
+        "usageEnglish": [
+          "Because I like it, I bought this book.",
+          "I went with him because he is my friend.",
+          "Because the weather is nice, I went out for a walk."
+        ]
+      },
+      {
+        "id": 9,
+        "darija": "شوف",
+        "phonetic": "chouf",
+        "arabicScript": "شُوفْ",
+        "msaEquivalent": "انظر",
+        "region": "Casablanca",
+        "usageDarija": [
+          "شوف داك السيد شنو كيدير.",
+          "شوف واش الكتاب هنا.",
+          "شوف الطريق قبل ما تخرج."
+        ],
+        "usageFrench": [
+          "Regarde ce que fait ce monsieur.",
+          "Regarde si le livre est ici.",
+          "Regarde la route avant de sortir."
+        ],
+        "usageEnglish": [
+          "See what that man is doing.",
+          "Check if the book is here.",
+          "Look at the road before going out."
+        ]
+      },
+      {
+        "id": 10,
+        "darija": "نقلب",
+        "phonetic": "nqlb",
+        "arabicScript": "نْقَلَّبْ",
+        "msaEquivalent": "أبحث",
+        "region": "Rabat",
+        "usageDarija": [
+          "نقلب على شي خدمة.",
+          "نقلب على الكتاب اللي ضاع.",
+          "نقلب على شي مطعم مزيان."
+        ],
+        "usageFrench": [
+          "Je cherche un travail.",
+          "Je cherche le livre perdu.",
+          "Je cherche un bon restaurant."
+        ],
+        "usageEnglish": [
+          "I'm looking for a job.",
+          "I'm searching for the lost book.",
+          "I'm looking for a good restaurant."
+        ]
+      },
+      {
+        "id": 11,
+        "darija": "نتكلم",
+        "phonetic": "ntkllm",
+        "arabicScript": "نْتْكَلَّمْ",
+        "msaEquivalent": "أتحدث",
+        "region": "Marrakech",
+        "usageDarija": [
+          "بغيت نتكلم معاك على شي حاجة.",
+          "نتكلم بالعربية شوية.",
+          "ما نتكلمش بزاف."
+        ],
+        "usageFrench": [
+          "Je veux te parler de quelque chose.",
+          "Je parle un peu arabe.",
+          "Je ne parle pas beaucoup."
+        ],
+        "usageEnglish": [
+          "I want to talk to you about something.",
+          "I speak a little Arabic.",
+          "I don't talk much."
+        ]
+      },
+      {
+        "id": 12,
+        "darija": "كتب",
+        "phonetic": "ktb",
+        "arabicScript": "كْتَبْ",
+        "msaEquivalent": "كتب",
+        "region": "Fes",
+        "usageDarija": [
+          "كتب لي العنوان ديالك.",
+          "كتب رسالة للصديق ديالو.",
+          "كتب اسمك هنا."
+        ],
+        "usageFrench": [
+          "Écris-moi ton adresse.",
+          "Il a écrit une lettre à son ami.",
+          "Écris ton nom ici."
+        ],
+        "usageEnglish": [
+          "Write me your address.",
+          "He wrote a letter to his friend.",
+          "Write your name here."
+        ]
+      },
+      {
+        "id": 13,
+        "darija": "نعس",
+        "phonetic": "n3s",
+        "arabicScript": "نْعَسْ",
+        "msaEquivalent": "نام",
+        "region": "Tangier",
+        "usageDarija": [
+          "بغيت نعس شوية.",
+          "نعس بكري البارح.",
+          "ما نقدرش نعس بلا مزيكا."
+        ],
+        "usageFrench": [
+          "Je veux dormir un peu.",
+          "Il a dormi tôt hier.",
+          "Je ne peux pas dormir sans musique."
+        ],
+        "usageEnglish": [
+          "I want to sleep a bit.",
+          "He slept early yesterday.",
+          "I can't sleep without music."
+        ]
+      },
+      {
+        "id": 14,
+        "darija": "طيح",
+        "phonetic": "t7i7",
+        "arabicScript": "طِيحْ",
+        "msaEquivalent": "سقط",
+        "region": "Agadir",
+        "usageDarija": [
+          "الولد طاح من السطح.",
+          "البطارية طاحت من يدي.",
+          "ما طاحتش في الحب معاه."
+        ],
+        "usageFrench": [
+          "L'enfant est tombé du toit.",
+          "La batterie est tombée de ma main.",
+          "Elle n'est pas tombée amoureuse de lui."
+        ],
+        "usageEnglish": [
+          "The child fell from the roof.",
+          "The battery fell from my hand.",
+          "She didn't fall in love with him."
+        ]
+      },
+      {
+        "id": 15,
+        "darija": "زرب",
+        "phonetic": "zrb",
+        "arabicScript": "زْرَبْ",
+        "msaEquivalent": "عجل",
+        "region": "Casablanca",
+        "usageDarija": [
+          "خاصك تزرب باش تلحق الطوبيس.",
+          "ما تزربش فالهدره.",
+          "زرب عليا حتى خرجت."
+        ],
+        "usageFrench": [
+          "Tu dois te dépêcher pour attraper le bus.",
+          "Ne te dépêche pas en parlant.",
+          "Il m'a pressé jusqu'à ce que je sorte."
+        ],
+        "usageEnglish": [
+          "You need to hurry to catch the bus.",
+          "Don't rush while talking.",
+          "He hurried me until I left."
+        ]
+      },
+      {
+        "id": 16,
+        "darija": "صبر",
+        "phonetic": "sbr",
+        "arabicScript": "صْبَرْ",
+        "msaEquivalent": "تحمل",
+        "region": "Rabat",
+        "usageDarija": [
+          "صبرتي بزاف هاد المرة.",
+          "صبرت على الألم.",
+          "خاصنا نصبروا على الظروف."
+        ],
+        "usageFrench": [
+          "Tu as beaucoup enduré cette fois.",
+          "Il a supporté la douleur.",
+          "Nous devons endurer les circonstances."
+        ],
+        "usageEnglish": [
+          "You endured a lot this time.",
+          "He endured the pain.",
+          "We must endure the circumstances."
+        ]
+      },
+      {
+        "id": 17,
+        "darija": "فرح",
+        "phonetic": "fr7",
+        "arabicScript": "فْرَحْ",
+        "msaEquivalent": "فرح",
+        "region": "Marrakech",
+        "usageDarija": [
+          "فرحت بزاف ملي نجحت.",
+          "الطفل فرح بالهدية.",
+          "ماشي كل نهار كنفرح."
+        ],
+        "usageFrench": [
+          "J'étais très heureux quand j'ai réussi.",
+          "L'enfant était content de son cadeau.",
+          "Je ne suis pas heureux tous les jours."
+        ],
+        "usageEnglish": [
+          "I was very happy when I succeeded.",
+          "The child was happy with the gift.",
+          "I'm not happy every day."
+        ]
+      },
+      {
+        "id": 18,
+        "darija": "كاين",
+        "phonetic": "kayen",
+        "arabicScript": "كَايْنْ",
+        "msaEquivalent": "يوجد",
+        "region": "Fes",
+        "usageDarija": [
+          "كاين شي جديد؟",
+          "كاين غير هاداك الكتاب.",
+          "كاين مطعم مزيان هنا."
+        ],
+        "usageFrench": [
+          "Y a-t-il quelque chose de nouveau?",
+          "Il n'y a que ce livre.",
+          "Il y a un bon restaurant ici."
+        ],
+        "usageEnglish": [
+          "Is there anything new?",
+          "There is only that book.",
+          "There is a good restaurant here."
+        ]
+      },
+      {
+        "id": 19,
+        "darija": "عافاك",
+        "phonetic": "3afak",
+        "arabicScript": "عَافَاكْ",
+        "msaEquivalent": "من فضلك",
+        "region": "Tangier",
+        "usageDarija": [
+          "عافاك جيب لي الماء.",
+          "عافاك ساعدني.",
+          "عافاك سكر الباب."
+        ],
+        "usageFrench": [
+          "S'il te plaît, apporte-moi de l'eau.",
+          "S'il te plaît, aide-moi.",
+          "S'il te plaît, ferme la porte."
+        ],
+        "usageEnglish": [
+          "Please bring me water.",
+          "Please help me.",
+          "Please close the door."
+        ]
+      },
+      {
+        "id": 20,
+        "darija": "البارح",
+        "phonetic": "lbare7",
+        "arabicScript": "الْبَارَحْ",
+        "msaEquivalent": "أمس",
+        "region": "Agadir",
+        "usageDarija": [
+          "مشيت للسوق البارح.",
+          "شفت الفيلم الجديد البارح.",
+          "ما دقتش النعاس البارح."
+        ],
+        "usageFrench": [
+          "Je suis allé au marché hier.",
+          "J'ai vu le nouveau film hier.",
+          "Je n'ai pas dormi hier."
+        ],
+        "usageEnglish": [
+          "I went to the market yesterday.",
+          "I saw the new movie yesterday.",
+          "I didn't sleep yesterday."
+        ]
+      },
+      {
+        "id": 21,
+        "darija": "اليوم",
+        "phonetic": "lyom",
+        "arabicScript": "اليُومْ",
+        "msaEquivalent": "اليوم",
+        "region": "Casablanca",
+        "usageDarija": [
+          "عندي موعد اليوم.",
+          "اليوم الجو زوين.",
+          "ما خرجتش اليوم."
+        ],
+        "usageFrench": [
+          "J'ai un rendez-vous aujourd'hui.",
+          "Il fait beau aujourd'hui.",
+          "Je ne suis pas sorti aujourd'hui."
+        ],
+        "usageEnglish": [
+          "I have an appointment today.",
+          "The weather is nice today.",
+          "I didn't go out today."
+        ]
+      },
+      {
+        "id": 22,
+        "darija": "غدا",
+        "phonetic": "ghdda",
+        "arabicScript": "غَدَّا",
+        "msaEquivalent": "غدا",
+        "region": "Rabat",
+        "usageDarija": [
+          "غدا عندي اجتماع.",
+          "غدا غادي نزور الوالدين.",
+          "غدا نخرج نتمشى."
+        ],
+        "usageFrench": [
+          "J'ai une réunion demain.",
+          "Demain, je vais visiter mes parents.",
+          "Demain, je sortirai pour une promenade."
+        ],
+        "usageEnglish": [
+          "I have a meeting tomorrow.",
+          "Tomorrow, I will visit my parents.",
+          "Tomorrow, I will go for a walk."
+        ]
+      },
+      {
+        "id": 23,
+        "darija": "علاش",
+        "phonetic": "3lach",
+        "arabicScript": "عْلَاشْ",
+        "msaEquivalent": "لماذا",
+        "region": "Marrakech",
+        "usageDarija": [
+          "علاش درتي هاد الشي؟",
+          "علاش معجبكش الفيلم؟",
+          "علاش مشيتي بلا ما تقولي؟"
+        ],
+        "usageFrench": [
+          "Pourquoi as-tu fait ça?",
+          "Pourquoi n'as-tu pas aimé le film?",
+          "Pourquoi es-tu parti sans me dire?"
+        ],
+        "usageEnglish": [
+          "Why did you do that?",
+          "Why didn't you like the movie?",
+          "Why did you leave without telling me?"
+        ]
+      },
+      {
+        "id": 24,
+        "darija": "شكون",
+        "phonetic": "chkoun",
+        "arabicScript": "شْكُونْ",
+        "msaEquivalent": "من",
+        "region": "Fes",
+        "usageDarija": [
+          "شكون هاد السيد؟",
+          "شكون لي غادي يجي معاك؟",
+          "شكون لي ضرب الباب؟"
+        ],
+        "usageFrench": [
+          "Qui est cet homme?",
+          "Qui va venir avec toi?",
+          "Qui a frappé à la porte?"
+        ],
+        "usageEnglish": [
+          "Who is that man?",
+          "Who is coming with you?",
+          "Who knocked on the door?"
+        ]
+      },
+      {
+        "id": 25,
+        "darija": "كيفاش",
+        "phonetic": "kifash",
+        "arabicScript": "كِيفَاشْ",
+        "msaEquivalent": "كيف",
+        "region": "Tangier",
+        "usageDarija": [
+          "كيفاش نقدر نساعدك؟",
+          "كيفاش كتدير هاد الحاجة؟",
+          "كيفاش كان النهار ديالك؟"
+        ],
+        "usageFrench": [
+          "Comment puis-je t'aider?",
+          "Comment fais-tu cette chose?",
+          "Comment s'est passée ta journée?"
+        ],
+        "usageEnglish": [
+          "How can I help you?",
+          "How do you do this thing?",
+          "How was your day?"
+        ]
+      },
+      {
+        "id": 26,
+        "darija": "متى",
+        "phonetic": "mta",
+        "arabicScript": "مَتَى",
+        "msaEquivalent": "متى",
+        "region": "Agadir",
+        "usageDarija": [
+          "متى غادي ترجع؟",
+          "متى غادي نبداو؟",
+          "متى موعدك مع الطبيب؟"
+        ],
+        "usageFrench": [
+          "Quand vas-tu revenir?",
+          "Quand allons-nous commencer?",
+          "Quand est ton rendez-vous chez le médecin?"
+        ],
+        "usageEnglish": [
+          "When are you coming back?",
+          "When are we starting?",
+          "When is your doctor's appointment?"
+        ]
+      },
+      {
+        "id": 27,
+        "darija": "منين",
+        "phonetic": "mnin",
+        "arabicScript": "مْنِينْ",
+        "msaEquivalent": "من أين",
+        "region": "Casablanca",
+        "usageDarija": [
+          "منين جيتي؟",
+          "منين كتشري هاد الشي؟",
+          "منين كتعرف هاد السيد؟"
+        ],
+        "usageFrench": [
+          "D'où viens-tu?",
+          "Où achètes-tu ça?",
+          "Comment connais-tu cet homme?"
+        ],
+        "usageEnglish": [
+          "Where did you come from?",
+          "Where do you buy this?",
+          "How do you know this man?"
+        ]
+      },
+      {
+        "id": 28,
+        "darija": "شنو",
+        "phonetic": "chnou",
+        "arabicScript": "شْنُو",
+        "msaEquivalent": "ماذا",
+        "region": "Rabat",
+        "usageDarija": [
+          "شنو كتدير؟",
+          "شنو رأيك فهاد الفيلم؟",
+          "شنو بغيت تأكل؟"
+        ],
+        "usageFrench": [
+          "Que fais-tu?",
+          "Que penses-tu de ce film?",
+          "Que veux-tu manger?"
+        ],
+        "usageEnglish": [
+          "What are you doing?",
+          "What do you think about this movie?",
+          "What do you want to eat?"
+        ]
+      },
+      {
+        "id": 29,
+        "darija": "كلاس",
+        "phonetic": "kllas",
+        "arabicScript": "كْلَاسْ",
+        "msaEquivalent": "أنهى",
+        "region": "Marrakech",
+        "usageDarija": [
+          "كلاس الخدمة ديالو بكري.",
+          "كلاس الكتاب اليوم.",
+          "كلاس العشا وتسطى."
+        ],
+        "usageFrench": [
+          "Il a fini son travail tôt.",
+          "Il a fini le livre aujourd'hui.",
+          "Il a terminé le dîner et s'est relaxé."
+        ],
+        "usageEnglish": [
+          "He finished his work early.",
+          "He finished the book today.",
+          "He finished dinner and relaxed."
+        ]
+      },
+      {
+        "id": 30,
+        "darija": "نجح",
+        "phonetic": "nj7",
+        "arabicScript": "نْجَحْ",
+        "msaEquivalent": "نجح",
+        "region": "Fes",
+        "usageDarija": [
+          "نجح فالإمتحان.",
+          "بغيت ننجح فهاد المشروع.",
+          "نجح فالحياة ديالو."
+        ],
+        "usageFrench": [
+          "Il a réussi son examen.",
+          "Je veux réussir ce projet.",
+          "Il a réussi dans sa vie."
+        ],
+        "usageEnglish": [
+          "He passed his exam.",
+          "I want to succeed in this project.",
+          "He succeeded in his life."
+        ]
+      },
+      {
+        "id": 31,
+        "darija": "عاود",
+        "phonetic": "3awd",
+        "arabicScript": "عَاوْدْ",
+        "msaEquivalent": "كرر",
+        "region": "Tangier",
+        "usageDarija": [
+          "عاود لي شنو وقع.",
+          "عاود الجملة.",
+          "عاود القصة لصحابك."
+        ],
+        "usageFrench": [
+          "Raconte-moi encore ce qui s'est passé.",
+          "Répète la phrase.",
+          "Raconte l'histoire à tes amis."
+        ],
+        "usageEnglish": [
+          "Tell me again what happened.",
+          "Repeat the sentence.",
+          "Tell the story to your friends."
+        ]
+      },
+      {
+        "id": 32,
+        "darija": "دير",
+        "phonetic": "dir",
+        "arabicScript": "دِيرْ",
+        "msaEquivalent": "افعل",
+        "region": "Agadir",
+        "usageDarija": [
+          "دير اللي بغيت.",
+          "دير العصير ليا.",
+          "دير مجهود كبير."
+        ],
+        "usageFrench": [
+          "Fais ce que tu veux.",
+          "Prépare-moi un jus.",
+          "Fais un grand effort."
+        ],
+        "usageEnglish": [
+          "Do whatever you want.",
+          "Make me a juice.",
+          "Make a big effort."
+        ]
+      },
+      {
+        "id": 33,
+        "darija": "بقا",
+        "phonetic": "bqa",
+        "arabicScript": "بْقَا",
+        "msaEquivalent": "ظل",
+        "region": "Casablanca",
+        "usageDarija": [
+          "بقا هنا حتى نرجع.",
+          "بقا كيتفرج فالفيلم.",
+          "بقا كيدرس حتى الليل."
+        ],
+        "usageFrench": [
+          "Reste ici jusqu'à ce que je revienne.",
+          "Il continue de regarder le film.",
+          "Il a étudié jusqu'à tard la nuit."
+        ],
+        "usageEnglish": [
+          "Stay here until I come back.",
+          "He kept watching the movie.",
+          "He studied until late at night."
+        ]
+      },
+      {
+        "id": 34,
+        "darija": "شرب",
+        "phonetic": "shrba",
+        "arabicScript": "شْرَبْ",
+        "msaEquivalent": "شرب",
+        "region": "Rabat",
+        "usageDarija": [
+          "شربت كاس ديال الما.",
+          "شرب القهوة بلا سكر.",
+          "بغيت نشرب شي حاجة باردة."
+        ],
+        "usageFrench": [
+          "J'ai bu un verre d'eau.",
+          "Il a bu du café sans sucre.",
+          "Je veux boire quelque chose de froid."
+        ],
+        "usageEnglish": [
+          "I drank a glass of water.",
+          "He drank coffee without sugar.",
+          "I want to drink something cold."
+        ]
+      },
+      {
+        "id": 35,
+        "darija": "كلس",
+        "phonetic": "kls",
+        "arabicScript": "كْلَسْ",
+        "msaEquivalent": "جلس",
+        "region": "Marrakech",
+        "usageDarija": [
+          "كلس هنا شوية.",
+          "كلسنا فالكافيه حتى العشية.",
+          "كلس على الكرسي ديالي."
+        ],
+        "usageFrench": [
+          "Assieds-toi ici un moment.",
+          "Nous nous sommes assis au café jusqu'à l'après-midi.",
+          "Il s'est assis sur ma chaise."
+        ],
+        "usageEnglish": [
+          "Sit here for a while.",
+          "We sat at the café until the afternoon.",
+          "He sat on my chair."
+        ]
+      },
+      {
+        "id": 36,
+        "darija": "ماشي",
+        "phonetic": "machi",
+        "arabicScript": "مَاشِي",
+        "msaEquivalent": "ليس",
+        "region": "Fes",
+        "usageDarija": [
+          "هاد ماشي مشكل كبير.",
+          "ماشي صحيح.",
+          "ماشي كلشي كيعرف."
+        ],
+        "usageFrench": [
+          "Ce n'est pas un gros problème.",
+          "Ce n'est pas vrai.",
+          "Tout le monde ne sait pas."
+        ],
+        "usageEnglish": [
+          "This is not a big problem.",
+          "That's not true.",
+          "Not everyone knows."
+        ]
+      },
+      {
+        "id": 37,
+        "darija": "مازال",
+        "phonetic": "mazal",
+        "arabicScript": "مَازَالْ",
+        "msaEquivalent": "ما زال",
+        "region": "Tangier",
+        "usageDarija": [
+          "مازال مبديتش.",
+          "مازال مكلستش.",
+          "مازال مفكرتش فهاد الموضوع."
+        ],
+        "usageFrench": [
+          "Je n'ai pas encore commencé.",
+          "Je ne me suis pas encore assis.",
+          "Je n'ai pas encore réfléchi à ce sujet."
+        ],
+        "usageEnglish": [
+          "I haven't started yet.",
+          "I haven't sat down yet.",
+          "I haven't thought about it yet."
+        ]
+      },
+      {
+        "id": 38,
+        "darija": "خايف",
+        "phonetic": "khaif",
+        "arabicScript": "خَايِفْ",
+        "msaEquivalent": "خائف",
+        "region": "Agadir",
+        "usageDarija": [
+          "أنا خايف من العتمة.",
+          "ما تخافش من الامتحان.",
+          "خايف على صحتي."
+        ],
+        "usageFrench": [
+          "J'ai peur du noir.",
+          "N'aie pas peur de l'examen.",
+          "Je suis inquiet pour ma santé."
+        ],
+        "usageEnglish": [
+          "I'm afraid of the dark.",
+          "Don't be afraid of the exam.",
+          "I'm worried about my health."
+        ]
+      },
+      {
+        "id": 39,
+        "darija": "كتعجبني",
+        "phonetic": "kat3jbni",
+        "arabicScript": "كَتْعَجْبْنِي",
+        "msaEquivalent": "أحبها",
+        "region": "Casablanca",
+        "usageDarija": [
+          "كتعجبني الموسيقى.",
+          "كتعجبني هاد المدينة.",
+          "كتعجبني الطريقة اللي كتفكر بها."
+        ],
+        "usageFrench": [
+          "J'aime la musique.",
+          "J'aime cette ville.",
+          "J'aime la façon dont tu penses."
+        ],
+        "usageEnglish": [
+          "I like the music.",
+          "I like this city.",
+          "I like the way you think."
+        ]
+      },
+      {
+        "id": 40,
+        "darija": "نشوف",
+        "phonetic": "nchouf",
+        "arabicScript": "نْشُوفْ",
+        "msaEquivalent": "أرى",
+        "region": "Rabat",
+        "usageDarija": [
+          "بغيت نشوف واش كلشي مزيان.",
+          "نشوف الفيلم الجديد الليلة.",
+          "نشوف واش غادي تمطر غدا."
+        ],
+        "usageFrench": [
+          "Je veux voir si tout va bien.",
+          "Je regarde le nouveau film ce soir.",
+          "Je vais voir s'il va pleuvoir demain."
+        ],
+        "usageEnglish": [
+          "I want to see if everything is okay.",
+          "I'll watch the new movie tonight.",
+          "I'll see if it will rain tomorrow."
+        ]
+      },
+      {
+        "id": 41,
+        "darija": "نكون",
+        "phonetic": "nkoun",
+        "arabicScript": "نْكُونْ",
+        "msaEquivalent": "أكون",
+        "region": "Marrakech",
+        "usageDarija": [
+          "غادي نكون هنا غدا.",
+          "خاصني نكون دكي فهاد المسألة.",
+          "بغيت نكون محترف فخدمتي."
+        ],
+        "usageFrench": [
+          "Je serai ici demain.",
+          "Je dois être intelligent à ce sujet.",
+          "Je veux être un professionnel dans mon travail."
+        ],
+        "usageEnglish": [
+          "I'll be here tomorrow.",
+          "I need to be smart about this.",
+          "I want to be a professional at my job."
+        ]
+      },
+      {
+        "id": 42,
+        "darija": "سافر",
+        "phonetic": "safer",
+        "arabicScript": "سَافَرْ",
+        "msaEquivalent": "سافر",
+        "region": "Fes",
+        "usageDarija": [
+          "غادي نسافر الأسبوع الجاي.",
+          "سافرت لمدينة جديدة.",
+          "ما عمرني سافرت برا البلاد."
+        ],
+        "usageFrench": [
+          "Je vais voyager la semaine prochaine.",
+          "J'ai voyagé dans une nouvelle ville.",
+          "Je n'ai jamais voyagé à l'étranger."
+        ],
+        "usageEnglish": [
+          "I'm going to travel next week.",
+          "I traveled to a new city.",
+          "I have never traveled abroad."
+        ]
+      },
+      {
+        "id": 43,
+        "darija": "طلب",
+        "phonetic": "tlb",
+        "arabicScript": "طْلَبْ",
+        "msaEquivalent": "طلب",
+        "region": "Tangier",
+        "usageDarija": [
+          "طلبت منو المساعدة.",
+          "طلب كاس ديال العصير.",
+          "طلب خدمة جديدة."
+        ],
+        "usageFrench": [
+          "Je lui ai demandé de l'aide.",
+          "Il a commandé un verre de jus.",
+          "Il a demandé un nouvel emploi."
+        ],
+        "usageEnglish": [
+          "I asked him for help.",
+          "He ordered a glass of juice.",
+          "He applied for a new job."
+        ]
+      },
+      {
+        "id": 44,
+        "darija": "صلي",
+        "phonetic": "salli",
+        "arabicScript": "صَلِّي",
+        "msaEquivalent": "صل",
+        "region": "Agadir",
+        "usageDarija": [
+          "صليت الفجر.",
+          "بغيت نصلي فالجامع.",
+          "صلي على النبي."
+        ],
+        "usageFrench": [
+          "J'ai prié l'aube.",
+          "Je veux prier à la mosquée.",
+          "Prie pour le Prophète."
+        ],
+        "usageEnglish": [
+          "I prayed the dawn prayer.",
+          "I want to pray at the mosque.",
+          "Pray for the Prophet."
+        ]
+      },
+      {
+        "id": 45,
+        "darija": "عيط",
+        "phonetic": "3iyyat",
+        "arabicScript": "عَيِّطْ",
+        "msaEquivalent": "اتصل",
+        "region": "Casablanca",
+        "usageDarija": [
+          "عيط لي ملي توصل.",
+          "عيط للبوليس.",
+          "عيط لصحابك يجو."
+        ],
+        "usageFrench": [
+          "Appelle-moi quand tu arrives.",
+          "Appelle la police.",
+          "Appelle tes amis pour qu'ils viennent."
+        ],
+        "usageEnglish": [
+          "Call me when you arrive.",
+          "Call the police.",
+          "Call your friends to come."
+        ]
+      },
+      {
+        "id": 46,
+        "darija": "قرا",
+        "phonetic": "qra",
+        "arabicScript": "قْرَا",
+        "msaEquivalent": "قرأ",
+        "region": "Rabat",
+        "usageDarija": [
+          "بغيت نقرا هاد الكتاب.",
+          "قريت الجريدة الصباح.",
+          "قرا الحروف للمرة الأولى."
+        ],
+        "usageFrench": [
+          "Je veux lire ce livre.",
+          "J'ai lu le journal ce matin.",
+          "Il a lu les lettres pour la première fois."
+        ],
+        "usageEnglish": [
+          "I want to read this book.",
+          "I read the newspaper this morning.",
+          "He read the letters for the first time."
+        ]
+      },
+      {
+        "id": 47,
+        "darija": "رجع",
+        "phonetic": "rja3",
+        "arabicScript": "رْجَعْ",
+        "msaEquivalent": "عاد",
+        "region": "Marrakech",
+        "usageDarija": [
+          "رجعت من السفر البارح.",
+          "رجعنا للدار بكري.",
+          "غادي نرجع لكلامي."
+        ],
+        "usageFrench": [
+          "Je suis revenu de voyage hier.",
+          "Nous sommes rentrés à la maison tôt.",
+          "Je vais revenir sur ce que j'ai dit."
+        ],
+        "usageEnglish": [
+          "I returned from the trip yesterday.",
+          "We returned home early.",
+          "I'll go back on my word."
+        ]
+      },
+      {
+        "id": 48,
+        "darija": "صبر",
+        "phonetic": "sabr",
+        "arabicScript": "صْبَرْ",
+        "msaEquivalent": "صبر",
+        "region": "Fes",
+        "usageDarija": [
+          "صبرت حتى جا الوقت المناسب.",
+          "ما عنديش الصبر دابا.",
+          "صبرنا على كلشي."
+        ],
+        "usageFrench": [
+          "J'ai patienté jusqu'à ce que le moment soit venu.",
+          "Je n'ai pas de patience maintenant.",
+          "Nous avons supporté tout cela."
+        ],
+        "usageEnglish": [
+          "I waited until the right time.",
+          "I don't have patience right now.",
+          "We endured everything."
+        ]
+      },
+      {
+        "id": 49,
+        "darija": "فق",
+        "phonetic": "fqq",
+        "arabicScript": "فْقْ",
+        "msaEquivalent": "استيقظ",
+        "region": "Tangier",
+        "usageDarija": [
+          "فقت مع الفجر.",
+          "فقنا فالصباح.",
+          "ما فقتش بكري."
+        ],
+        "usageFrench": [
+          "Je me suis réveillé à l'aube.",
+          "Nous nous sommes réveillés le matin.",
+          "Je ne me suis pas réveillé tôt."
+        ],
+        "usageEnglish": [
+          "I woke up at dawn.",
+          "We woke up in the morning.",
+          "I didn't wake up early."
+        ]
+      },
+      {
+        "id": 50,
+        "darija": "سمع",
+        "phonetic": "sm3",
+        "arabicScript": "سْمَعْ",
+        "msaEquivalent": "سمع",
+        "region": "Agadir",
+        "usageDarija": [
+          "سمعت أخبار مفرحة اليوم.",
+          "سمع الموسيقى الليلة.",
+          "سمعتك كتغني."
+        ],
+        "usageFrench": [
+          "J'ai entendu de bonnes nouvelles aujourd'hui.",
+          "Il a écouté de la musique ce soir.",
+          "Je t'ai entendu chanter."
+        ],
+        "usageEnglish": [
+          "I heard good news today.",
+          "He listened to music tonight.",
+          "I heard you singing."
+        ]
+      },
+      {
+        "id": 51,
+        "darija": "ضرب",
+        "phonetic": "drrb",
+        "arabicScript": "ضْرَبْ",
+        "msaEquivalent": "ضرب",
+        "region": "Casablanca",
+        "usageDarija": [
+          "ضربتو الكرة فالدراع.",
+          "ضرب راسو فالحيط.",
+          "ضرباتني الشمس."
+        ],
+        "usageFrench": [
+          "Je l'ai frappé avec le ballon au bras.",
+          "Il s'est cogné la tête contre le mur.",
+          "Le soleil m'a frappé."
+        ],
+        "usageEnglish": [
+          "I hit him with the ball on the arm.",
+          "He hit his head against the wall.",
+          "The sun hit me."
+        ]
+      },
+      {
+        "id": 52,
+        "darija": "برد",
+        "phonetic": "brd",
+        "arabicScript": "بْرَدْ",
+        "msaEquivalent": "برد",
+        "region": "Rabat",
+        "usageDarija": [
+          "الجو بارد اليوم.",
+          "بردت القهوة.",
+          "بردات حالتي الصحية."
+        ],
+        "usageFrench": [
+          "Il fait froid aujourd'hui.",
+          "Le café a refroidi.",
+          "Mon état de santé s'est détérioré."
+        ],
+        "usageEnglish": [
+          "The weather is cold today.",
+          "The coffee got cold.",
+          "My health condition worsened."
+        ]
+      },
+      {
+        "id": 53,
+        "darija": "كحل",
+        "phonetic": "k7l",
+        "arabicScript": "كْحَلْ",
+        "msaEquivalent": "أسود",
+        "region": "Marrakech",
+        "usageDarija": [
+          "لبست جلباب كحل.",
+          "السماء كانت كحلة فالصباح.",
+          "شعرو كحل وطويل."
+        ],
+        "usageFrench": [
+          "J'ai porté une djellaba noire.",
+          "Le ciel était noir ce matin.",
+          "Ses cheveux sont noirs et longs."
+        ],
+        "usageEnglish": [
+          "I wore a black djellaba.",
+          "The sky was black in the morning.",
+          "His hair is black and long."
+        ]
+      },
+      {
+        "id": 54,
+        "darija": "فتح",
+        "phonetic": "fta7",
+        "arabicScript": "فْتَحْ",
+        "msaEquivalent": "فتح",
+        "region": "Fes",
+        "usageDarija": [
+          "فتحت الباب.",
+          "فتحت الكتاب وبديت نقرا.",
+          "فتح ليا الحساب."
+        ],
+        "usageFrench": [
+          "J'ai ouvert la porte.",
+          "J'ai ouvert le livre et j'ai commencé à lire.",
+          "Il m'a ouvert un compte."
+        ],
+        "usageEnglish": [
+          "I opened the door.",
+          "I opened the book and started reading.",
+          "He opened an account for me."
+        ]
+      },
+      {
+        "id": 55,
+        "darija": "غلق",
+        "phonetic": "ghlq",
+        "arabicScript": "غْلَقْ",
+        "msaEquivalent": "أغلق",
+        "region": "Tangier",
+        "usageDarija": [
+          "غلقو المحل فالعشية.",
+          "غلق الباب من بعد ما خرج.",
+          "غلق التليفون ديالو."
+        ],
+        "usageFrench": [
+          "Ils ont fermé le magasin dans l'après-midi.",
+          "Il a fermé la porte après être sorti.",
+          "Il a éteint son téléphone."
+        ],
+        "usageEnglish": [
+          "They closed the store in the afternoon.",
+          "He closed the door after leaving.",
+          "He turned off his phone."
+        ]
+      },
+      {
+        "id": 56,
+        "darija": "قرب",
+        "phonetic": "qrrb",
+        "arabicScript": "قْرَّبْ",
+        "msaEquivalent": "اقترب",
+        "region": "Agadir",
+        "usageDarija": [
+          "قربت نكمل الخدمة.",
+          "قربنا نوصلو.",
+          "قرب للحيط."
+        ],
+        "usageFrench": [
+          "Je suis presque terminé le travail.",
+          "Nous sommes presque arrivés.",
+          "Il s'est rapproché du mur."
+        ],
+        "usageEnglish": [
+          "I'm almost finished with the work.",
+          "We're almost there.",
+          "He moved closer to the wall."
+        ]
+      },
+      {
+        "id": 57,
+        "darija": "بعد",
+        "phonetic": "b3d",
+        "arabicScript": "بْعْدْ",
+        "msaEquivalent": "ابتعد",
+        "region": "Casablanca",
+        "usageDarija": [
+          "بعد من الطريق.",
+          "بعدت على الحي ديالنا.",
+          "بعدتو مني."
+        ],
+        "usageFrench": [
+          "Éloigne-toi de la route.",
+          "Je me suis éloigné de notre quartier.",
+          "Je l'ai éloigné de moi."
+        ],
+        "usageEnglish": [
+          "Move away from the road.",
+          "I moved away from our neighborhood.",
+          "I distanced him from me."
+        ]
+      },
+      {
+        "id": 58,
+        "darija": "طلع",
+        "phonetic": "tl3",
+        "arabicScript": "طْلَعْ",
+        "msaEquivalent": "صعد",
+        "region": "Rabat",
+        "usageDarija": [
+          "طلع للسطح.",
+          "طلع فالجبل.",
+          "طلع فالدرج بلا تعب."
+        ],
+        "usageFrench": [
+          "Il est monté sur le toit.",
+          "Il est monté sur la montagne.",
+          "Il a monté les escaliers sans se fatiguer."
+        ],
+        "usageEnglish": [
+          "He went up to the roof.",
+          "He climbed the mountain.",
+          "He climbed the stairs without getting tired."
+        ]
+      },
+      {
+        "id": 59,
+        "darija": "نزل",
+        "phonetic": "nzl",
+        "arabicScript": "نْزَلْ",
+        "msaEquivalent": "نزل",
+        "region": "Marrakech",
+        "usageDarija": [
+          "نزل من السطح.",
+          "نزل من الطوبيس.",
+          "نزل للبحر."
+        ],
+        "usageFrench": [
+          "Il est descendu du toit.",
+          "Il est descendu du bus.",
+          "Il est descendu à la mer."
+        ],
+        "usageEnglish": [
+          "He came down from the roof.",
+          "He got off the bus.",
+          "He went down to the sea."
+        ]
+      },
+      {
+        "id": 60,
+        "darija": "قاس",
+        "phonetic": "qas",
+        "arabicScript": "قَاسْ",
+        "msaEquivalent": "لمس",
+        "region": "Fes",
+        "usageDarija": [
+          "قاس الحيط بيدو.",
+          "قاس الشعر ديالو.",
+          "قاسني على كتفي."
+        ],
+        "usageFrench": [
+          "Il a touché le mur avec sa main.",
+          "Il a touché ses cheveux.",
+          "Il m'a touché l'épaule."
+        ],
+        "usageEnglish": [
+          "He touched the wall with his hand.",
+          "He touched his hair.",
+          "He touched me on the shoulder."
+        ]
+      },
+      {
+        "id": 61,
+        "darija": "شرا",
+        "phonetic": "shra",
+        "arabicScript": "شْرَا",
+        "msaEquivalent": "اشترى",
+        "region": "Tangier",
+        "usageDarija": [
+          "شريت كتاب جديد.",
+          "شرا طوموبيل جديدة.",
+          "بغيت نشري الخبز."
+        ],
+        "usageFrench": [
+          "J'ai acheté un nouveau livre.",
+          "Il a acheté une nouvelle voiture.",
+          "Je veux acheter du pain."
+        ],
+        "usageEnglish": [
+          "I bought a new book.",
+          "He bought a new car.",
+          "I want to buy bread."
+        ]
+      },
+      {
+        "id": 62,
+        "darija": "باع",
+        "phonetic": "baa3",
+        "arabicScript": "بَاعْ",
+        "msaEquivalent": "باع",
+        "region": "Agadir",
+        "usageDarija": [
+          "بعت البيت ديالي.",
+          "بغيت نبيع الطوموبيل.",
+          "باع الكرسي القديم."
+        ],
+        "usageFrench": [
+          "J'ai vendu ma maison.",
+          "Je veux vendre la voiture.",
+          "Il a vendu la vieille chaise."
+        ],
+        "usageEnglish": [
+          "I sold my house.",
+          "I want to sell the car.",
+          "He sold the old chair."
+        ]
+      },
+      {
+        "id": 63,
+        "darija": "خدم",
+        "phonetic": "khddm",
+        "arabicScript": "خْدَّمْ",
+        "msaEquivalent": "اشتغل",
+        "region": "Casablanca",
+        "usageDarija": [
+          "خاصني نخدم اليوم.",
+          "خدمنا كاملين على المشروع.",
+          "خدم حتى الليل."
+        ],
+        "usageFrench": [
+          "Je dois travailler aujourd'hui.",
+          "Nous avons tous travaillé sur le projet.",
+          "Il a travaillé jusqu'à tard dans la nuit."
+        ],
+        "usageEnglish": [
+          "I have to work today.",
+          "We all worked on the project.",
+          "He worked late into the night."
+        ]
+      },
+      {
+        "id": 64,
+        "darija": "برا",
+        "phonetic": "bra",
+        "arabicScript": "بْرَا",
+        "msaEquivalent": "تعافى",
+        "region": "Rabat",
+        "usageDarija": [
+          "برا من المرض ديالو.",
+          "برا الصبي من الجرح.",
+          "غادي تبرا من بعد العملية."
+        ],
+        "usageFrench": [
+          "Il s'est remis de sa maladie.",
+          "L'enfant s'est remis de sa blessure.",
+          "Tu vas guérir après l'opération."
+        ],
+        "usageEnglish": [
+          "He recovered from his illness.",
+          "The child healed from his wound.",
+          "You'll recover after the surgery."
+        ]
+      },
+      {
+        "id": 65,
+        "darija": "شكى",
+        "phonetic": "shki",
+        "arabicScript": "شْكَى",
+        "msaEquivalent": "اشتكى",
+        "region": "Marrakech",
+        "usageDarija": [
+          "شكى من الخدمة ديالو.",
+          "شكى للبوليس على الجار ديالو.",
+          "شكى من الألم فالركبة."
+        ],
+        "usageFrench": [
+          "Il s'est plaint de son travail.",
+          "Il a porté plainte à la police contre son voisin.",
+          "Il s'est plaint de la douleur au genou."
+        ],
+        "usageEnglish": [
+          "He complained about his job.",
+          "He reported his neighbor to the police.",
+          "He complained about the pain in his knee."
+        ]
+      },
+      {
+        "id": 66,
+        "darija": "لقى",
+        "phonetic": "lqa",
+        "arabicScript": "لْقَا",
+        "msaEquivalent": "وجد",
+        "region": "Fes",
+        "usageDarija": [
+          "لقيت الكتاب ديالي.",
+          "لقى الخدمة اللي كان باغي.",
+          "لقى الحل للمشكلة."
+        ],
+        "usageFrench": [
+          "J'ai trouvé mon livre.",
+          "Il a trouvé le travail qu'il voulait.",
+          "Il a trouvé la solution au problème."
+        ],
+        "usageEnglish": [
+          "I found my book.",
+          "He found the job he wanted.",
+          "He found the solution to the problem."
+        ]
+      },
+      {
+        "id": 67,
+        "darija": "ضيع",
+        "phonetic": "daye3",
+        "arabicScript": "ضَيَّعْ",
+        "msaEquivalent": "أضاع",
+        "region": "Tangier",
+        "usageDarija": [
+          "ضيع المفاتيح ديالو.",
+          "ضيع الوقت بزاف.",
+          "ما ضيعش الفرصة."
+        ],
+        "usageFrench": [
+          "Il a perdu ses clés.",
+          "Il a perdu beaucoup de temps.",
+          "Il n'a pas raté l'occasion."
+        ],
+        "usageEnglish": [
+          "He lost his keys.",
+          "He wasted a lot of time.",
+          "He didn't miss the opportunity."
+        ]
+      },
+      {
+        "id": 68,
+        "darija": "وقف",
+        "phonetic": "wqf",
+        "arabicScript": "وْقَفْ",
+        "msaEquivalent": "وقف",
+        "region": "Agadir",
+        "usageDarija": [
+          "وقف فطابور طويل.",
+          "وقف فالطريق بلا ما يتبع القانون.",
+          "وقف مع صحابو."
+        ],
+        "usageFrench": [
+          "Il s'est tenu dans une longue file.",
+          "Il s'est arrêté sur la route sans respecter la loi.",
+          "Il s'est tenu avec ses amis."
+        ],
+        "usageEnglish": [
+          "He stood in a long line.",
+          "He stopped on the road without following the law.",
+          "He stood with his friends."
+        ]
+      },
+      {
+        "id": 69,
+        "darija": "جلس",
+        "phonetic": "jls",
+        "arabicScript": "جْلَسْ",
+        "msaEquivalent": "جلس",
+        "region": "Casablanca",
+        "usageDarija": [
+          "جلسنا نرتاح شوية.",
+          "جلسة مع العائلة ديما زوينة.",
+          "جلس بوحدو فالكافيه."
+        ],
+        "usageFrench": [
+          "Nous nous sommes assis pour nous reposer un peu.",
+          "Une séance avec la famille est toujours agréable.",
+          "Il s'est assis seul au café."
+        ],
+        "usageEnglish": [
+          "We sat down to rest a bit.",
+          "A session with the family is always nice.",
+          "He sat alone in the café."
+        ]
+      },
+      {
+        "id": 70,
+        "darija": "قلب",
+        "phonetic": "qlb",
+        "arabicScript": "قْلَبْ",
+        "msaEquivalent": "قلب",
+        "region": "Rabat",
+        "usageDarija": [
+          "قلب على الكتاب ضايع.",
+          "قلبتي على الموبايل ديالك؟",
+          "قلبنا على الحقيقة."
+        ],
+        "usageFrench": [
+          "Il a cherché le livre perdu.",
+          "As-tu cherché ton téléphone?",
+          "Nous avons cherché la vérité."
+        ],
+        "usageEnglish": [
+          "He looked for the lost book.",
+          "Did you search for your phone?",
+          "We searched for the truth."
+        ]
+      },
+      {
+        "id": 71,
+        "darija": "كذب",
+        "phonetic": "kdb",
+        "arabicScript": "كْذَبْ",
+        "msaEquivalent": "كذب",
+        "region": "Marrakech",
+        "usageDarija": [
+          "كذب على صحابو.",
+          "ما كذبتش عليك.",
+          "كذب باش يخرج من المشكل."
+        ],
+        "usageFrench": [
+          "Il a menti à ses amis.",
+          "Je ne t'ai pas menti.",
+          "Il a menti pour sortir du problème."
+        ],
+        "usageEnglish": [
+          "He lied to his friends.",
+          "I didn't lie to you.",
+          "He lied to get out of the problem."
+        ]
+      },
+      {
+        "id": 72,
+        "darija": "فكر",
+        "phonetic": "fkkr",
+        "arabicScript": "فْكَرْ",
+        "msaEquivalent": "فكر",
+        "region": "Fes",
+        "usageDarija": [
+          "فكرت فهاد الموضوع بزاف.",
+          "بغيت نفكر شوية قبل ما نجاوب.",
+          "فكرتي فاللي قلت ليك؟"
+        ],
+        "usageFrench": [
+          "J'ai beaucoup réfléchi à ce sujet.",
+          "Je veux réfléchir un peu avant de répondre.",
+          "As-tu pensé à ce que je t'ai dit?"
+        ],
+        "usageEnglish": [
+          "I thought a lot about this.",
+          "I want to think a bit before answering.",
+          "Did you think about what I told you?"
+        ]
+      },
+      {
+        "id": 73,
+        "darija": "قال",
+        "phonetic": "qal",
+        "arabicScript": "قَالْ",
+        "msaEquivalent": "قال",
+        "region": "Tangier",
+        "usageDarija": [
+          "قال لي نجي بكري.",
+          "قال الحقيقة لصحابو.",
+          "قال ليه نعاود الكلام."
+        ],
+        "usageFrench": [
+          "Il m'a dit de venir tôt.",
+          "Il a dit la vérité à ses amis.",
+          "Il lui a dit de répéter les mots."
+        ],
+        "usageEnglish": [
+          "He told me to come early.",
+          "He told his friends the truth.",
+          "He told him to repeat the words."
+        ]
+      },
+      {
+        "id": 74,
+        "darija": "شرب",
+        "phonetic": "shrbb",
+        "arabicScript": "شْرَبْ",
+        "msaEquivalent": "شرب",
+        "region": "Agadir",
+        "usageDarija": [
+          "شرب الما بزاف.",
+          "شرب القهوة بكري.",
+          "شرب العصير بلا سكر."
+        ],
+        "usageFrench": [
+          "Il a bu beaucoup d'eau.",
+          "Il a bu du café tôt.",
+          "Il a bu du jus sans sucre."
+        ],
+        "usageEnglish": [
+          "He drank a lot of water.",
+          "He drank coffee early.",
+          "He drank juice without sugar."
+        ]
+      },
+      {
+        "id": 75,
+        "darija": "كذب",
+        "phonetic": "kdbb",
+        "arabicScript": "كْذَبْ",
+        "msaEquivalent": "كذب",
+        "region": "Casablanca",
+        "usageDarija": [
+          "كذب على صحابو.",
+          "ما كذبتش عليك.",
+          "كذب باش يخرج من المشكل."
+        ],
+        "usageFrench": [
+          "Il a menti à ses amis.",
+          "Je ne t'ai pas menti.",
+          "Il a menti pour sortir du problème."
+        ],
+        "usageEnglish": [
+          "He lied to his friends.",
+          "I didn't lie to you.",
+          "He lied to get out of the problem."
+        ]
+      },
+      {
+        "id": 76,
+        "darija": "تسنى",
+        "phonetic": "tsna",
+        "arabicScript": "تْسَنَّى",
+        "msaEquivalent": "انتظر",
+        "region": "Rabat",
+        "usageDarija": [
+          "تسنيتك فالدار.",
+          "تسنينا حتى جاء الطوبيس.",
+          "ما تسنيتش بزاف."
+        ],
+        "usageFrench": [
+          "Je t'ai attendu à la maison.",
+          "Nous avons attendu jusqu'à ce que le bus arrive.",
+          "Je n'ai pas attendu longtemps."
+        ],
+        "usageEnglish": [
+          "I waited for you at home.",
+          "We waited until the bus came.",
+          "I didn't wait long."
+        ]
+      },
+      {
+        "id": 77,
+        "darija": "ضحك",
+        "phonetic": "d7k",
+        "arabicScript": "ضْحَكْ",
+        "msaEquivalent": "ضحك",
+        "region": "Marrakech",
+        "usageDarija": [
+          "ضحكنا بزاف البارح.",
+          "ضحك على النكتة.",
+          "ضحكت حتى دمعت عينيا."
+        ],
+        "usageFrench": [
+          "Nous avons beaucoup ri hier.",
+          "Il a ri à la blague.",
+          "J'ai ri jusqu'à en pleurer."
+        ],
+        "usageEnglish": [
+          "We laughed a lot yesterday.",
+          "He laughed at the joke.",
+          "I laughed until I cried."
+        ]
+      },
+      {
+        "id": 78,
+        "darija": "كتب",
+        "phonetic": "ktb",
+        "arabicScript": "كْتَبْ",
+        "msaEquivalent": "كتب",
+        "region": "Fes",
+        "usageDarija": [
+          "كتبت رسالة طويلة.",
+          "كتب ملاحظة على الورقة.",
+          "كتبت الكلمات بالدارجة."
+        ],
+        "usageFrench": [
+          "J'ai écrit une longue lettre.",
+          "Il a écrit une note sur le papier.",
+          "J'ai écrit les mots en darija."
+        ],
+        "usageEnglish": [
+          "I wrote a long letter.",
+          "He wrote a note on the paper.",
+          "I wrote the words in Darija."
+        ]
+      },
+      {
+        "id": 79,
+        "darija": "غسل",
+        "phonetic": "ghsl",
+        "arabicScript": "غْسَلْ",
+        "msaEquivalent": "غسل",
+        "region": "Tangier",
+        "usageDarija": [
+          "غسلنا المواعن.",
+          "غسلت يدي قبل الأكل.",
+          "غسل وجهو الصباح."
+        ],
+        "usageFrench": [
+          "Nous avons lavé la vaisselle.",
+          "Je me suis lavé les mains avant de manger.",
+          "Il a lavé son visage le matin."
+        ],
+        "usageEnglish": [
+          "We washed the dishes.",
+          "I washed my hands before eating.",
+          "He washed his face in the morning."
+        ]
+      },
+      {
+        "id": 80,
+        "darija": "رد",
+        "phonetic": "rdd",
+        "arabicScript": "رَدْ",
+        "msaEquivalent": "رد",
+        "region": "Agadir",
+        "usageDarija": [
+          "رد بالك من الكلب.",
+          "رديت الكتاب للمكتبة.",
+          "رد على المكالمة."
+        ],
+        "usageFrench": [
+          "Fais attention au chien.",
+          "J'ai rendu le livre à la bibliothèque.",
+          "Il a répondu à l'appel."
+        ],
+        "usageEnglish": [
+          "Be careful of the dog.",
+          "I returned the book to the library.",
+          "He answered the call."
+        ]
+      },
+      {
+        "id": 81,
+        "darija": "بكى",
+        "phonetic": "bka",
+        "arabicScript": "بْكَى",
+        "msaEquivalent": "بكى",
+        "region": "Casablanca",
+        "usageDarija": [
+          "بكيت ملي مشيتي.",
+          "بكا الطفل ملي طاح.",
+          "بكيت على الفيلم الحزين."
+        ],
+        "usageFrench": [
+          "J'ai pleuré quand tu es parti.",
+          "L'enfant a pleuré quand il est tombé.",
+          "J'ai pleuré à cause du film triste."
+        ],
+        "usageEnglish": [
+          "I cried when you left.",
+          "The child cried when he fell.",
+          "I cried because of the sad movie."
+        ]
+      },
+      {
+        "id": 82,
+        "darija": "لعب",
+        "phonetic": "l3b",
+        "arabicScript": "لْعَبْ",
+        "msaEquivalent": "لعب",
+        "region": "Rabat",
+        "usageDarija": [
+          "لعبت مع صحابي اليوم.",
+          "لعبنا الكرة فالحديقة.",
+          "ما لعبش معانا."
+        ],
+        "usageFrench": [
+          "J'ai joué avec mes amis aujourd'hui.",
+          "Nous avons joué au foot dans le jardin.",
+          "Il n'a pas joué avec nous."
+        ],
+        "usageEnglish": [
+          "I played with my friends today.",
+          "We played soccer in the garden.",
+          "He didn't play with us."
+        ]
+      },
+      {
+        "id": 83,
+        "darija": "مشا",
+        "phonetic": "msha",
+        "arabicScript": "مْشَا",
+        "msaEquivalent": "ذهب",
+        "region": "Marrakech",
+        "usageDarija": [
+          "مشيت للسوق.",
+          "مشا للطبيب اليوم.",
+          "مشينا نتفرجو فالفيلم."
+        ],
+        "usageFrench": [
+          "Je suis allé au marché.",
+          "Il est allé chez le médecin aujourd'hui.",
+          "Nous sommes allés regarder un film."
+        ],
+        "usageEnglish": [
+          "I went to the market.",
+          "He went to the doctor today.",
+          "We went to watch a movie."
+        ]
+      },
+      {
+        "id": 84,
+        "darija": "خاف",
+        "phonetic": "khaf",
+        "arabicScript": "خَافْ",
+        "msaEquivalent": "خاف",
+        "region": "Fes",
+        "usageDarija": [
+          "خفت من الكلب.",
+          "ما تخافش من الامتحان.",
+          "خافت من الرعد."
+        ],
+        "usageFrench": [
+          "J'ai eu peur du chien.",
+          "N'aie pas peur de l'examen.",
+          "Elle a eu peur du tonnerre."
+        ],
+        "usageEnglish": [
+          "I was afraid of the dog.",
+          "Don't be afraid of the exam.",
+          "She was afraid of the thunder."
+        ]
+      },
+      {
+        "id": 85,
+        "darija": "نسي",
+        "phonetic": "nsi",
+        "arabicScript": "نْسِيْ",
+        "msaEquivalent": "نسي",
+        "region": "Tangier",
+        "usageDarija": [
+          "نسيت المفاتيح فالدار.",
+          "نسينا موعد الاجتماع.",
+          "ما نساش يقفل الباب."
+        ],
+        "usageFrench": [
+          "J'ai oublié les clés à la maison.",
+          "Nous avons oublié la réunion.",
+          "Il n'a pas oublié de fermer la porte."
+        ],
+        "usageEnglish": [
+          "I forgot the keys at home.",
+          "We forgot the meeting.",
+          "He didn't forget to lock the door."
+        ]
+      },
+      {
+        "id": 86,
+        "darija": "فهم",
+        "phonetic": "fhm",
+        "arabicScript": "فْهَمْ",
+        "msaEquivalent": "فهم",
+        "region": "Agadir",
+        "usageDarija": [
+          "فهمت الدرس بسرعة.",
+          "فهمت قصدك.",
+          "ما فهمش الفكرة."
+        ],
+        "usageFrench": [
+          "J'ai compris la leçon rapidement.",
+          "J'ai compris ce que tu veux dire.",
+          "Il n'a pas compris l'idée."
+        ],
+        "usageEnglish": [
+          "I understood the lesson quickly.",
+          "I got your point.",
+          "He didn't understand the idea."
+        ]
+      },
+      {
+        "id": 87,
+        "darija": "كتب",
+        "phonetic": "ktb",
+        "arabicScript": "كْتَبْ",
+        "msaEquivalent": "كتب",
+        "region": "Casablanca",
+        "usageDarija": [
+          "كتب جملة طويلة.",
+          "كتب الجواب فالورقة.",
+          "كتب رسالة للصديق ديالو."
+        ],
+        "usageFrench": [
+          "Il a écrit une longue phrase.",
+          "Il a écrit la réponse sur le papier.",
+          "Il a écrit une lettre à son ami."
+        ],
+        "usageEnglish": [
+          "He wrote a long sentence.",
+            "He wrote the answer on the paper.",
+            "He wrote a letter to his friend."
+          ]
+        },
+        {
+          "id": 88,
+          "darija": "تعلم",
+          "phonetic": "t3llm",
+          "arabicScript": "تْعَلَّمْ",
+          "msaEquivalent": "تعلم",
+          "region": "Rabat",
+          "usageDarija": [
+            "تعلمت حاجة جديدة اليوم.",
+            "بغيت نتعلم اللغات.",
+            "تعلم السباحة فالطفولة."
+          ],
+          "usageFrench": [
+            "J'ai appris quelque chose de nouveau aujourd'hui.",
+            "Je veux apprendre les langues.",
+            "Il a appris à nager dans son enfance."
+          ],
+          "usageEnglish": [
+            "I learned something new today.",
+            "I want to learn languages.",
+            "He learned to swim in childhood."
+          ]
+        },
+        {
+          "id": 89,
+          "darija": "وصل",
+          "phonetic": "wsal",
+          "arabicScript": "وْصَلْ",
+          "msaEquivalent": "وصل",
+          "region": "Marrakech",
+          "usageDarija": [
+            "وصلت للمكان بسرعة.",
+            "وصل البريد اليوم.",
+            "وصلنا متأخرين."
+          ],
+          "usageFrench": [
+            "Je suis arrivé à l'endroit rapidement.",
+            "Le courrier est arrivé aujourd'hui.",
+            "Nous sommes arrivés en retard."
+          ],
+          "usageEnglish": [
+            "I reached the place quickly.",
+            "The mail arrived today.",
+            "We arrived late."
+          ]
+        },
+        {
+          "id": 90,
+          "darija": "حلم",
+          "phonetic": "7lm",
+          "arabicScript": "حْلَمْ",
+          "msaEquivalent": "حلم",
+          "region": "Fes",
+          "usageDarija": [
+            "حلمت بشيء غريب البارح.",
+            "عندي حلم نبني دار كبيرة.",
+            "حلمت بشيء جميل."
+          ],
+          "usageFrench": [
+            "J'ai rêvé de quelque chose d'étrange hier.",
+            "J'ai un rêve de construire une grande maison.",
+            "J'ai rêvé de quelque chose de beau."
+          ],
+          "usageEnglish": [
+            "I dreamed of something strange yesterday.",
+            "I have a dream of building a big house.",
+            "I dreamed of something beautiful."
+          ]
+        },
+        {
+          "id": 91,
+          "darija": "حط",
+          "phonetic": "7t",
+          "arabicScript": "حْطْ",
+          "msaEquivalent": "وضع",
+          "region": "Tangier",
+          "usageDarija": [
+            "حطيت الكتاب على الطاولة.",
+            "حط المفتاح فجيبه.",
+            "حطينا العشاء فالطابلة."
+          ],
+          "usageFrench": [
+            "J'ai posé le livre sur la table.",
+            "Il a mis la clé dans sa poche.",
+            "Nous avons mis le dîner sur la table."
+          ],
+          "usageEnglish": [
+            "I placed the book on the table.",
+            "He put the key in his pocket.",
+            "We put the dinner on the table."
+          ]
+        },
+        {
+          "id": 92,
+          "darija": "عجب",
+          "phonetic": "3jb",
+          "arabicScript": "عْجَبْ",
+          "msaEquivalent": "أعجب",
+          "region": "Agadir",
+          "usageDarija": [
+            "عجبني الفيلم بزاف.",
+            "ما عجبوش الحال.",
+            "عجبها الكتاب اللي قريتو."
+          ],
+          "usageFrench": [
+            "J'ai beaucoup aimé le film.",
+            "Il n'a pas aimé la situation.",
+            "Elle a aimé le livre qu'elle a lu."
+          ],
+          "usageEnglish": [
+            "I really liked the movie.",
+            "He didn't like the situation.",
+            "She liked the book she read."
+          ]
+        },
+        {
+          "id": 93,
+          "darija": "شرى",
+          "phonetic": "shrā",
+          "arabicScript": "شْرَى",
+          "msaEquivalent": "اشترى",
+          "region": "Casablanca",
+          "usageDarija": [
+            "شرينا الحوايج من السوق.",
+            "شرى الطوموبيل البارح.",
+            "بغيت نشري تليفون جديد."
+          ],
+          "usageFrench": [
+            "Nous avons acheté des choses au marché.",
+            "Il a acheté la voiture hier.",
+            "Je veux acheter un nouveau téléphone."
+          ],
+          "usageEnglish": [
+            "We bought things from the market.",
+            "He bought the car yesterday.",
+            "I want to buy a new phone."
+          ]
+        },
+        {
+          "id": 94,
+          "darija": "فرح",
+          "phonetic": "fr7",
+          "arabicScript": "فْرَحْ",
+          "msaEquivalent": "فرح",
+          "region": "Rabat",
+          "usageDarija": [
+            "فرحت بزاف ملي سمعت الأخبار.",
+            "فرحو الأطفال بالهدية.",
+            "كنفرح كلما شفتك."
+          ],
+          "usageFrench": [
+            "J'étais très heureux quand j'ai entendu les nouvelles.",
+            "Les enfants étaient ravis du cadeau.",
+            "Je suis heureux chaque fois que je te vois."
+          ],
+          "usageEnglish": [
+            "I was very happy when I heard the news.",
+            "The children were delighted with the gift.",
+            "I am happy every time I see you."
+          ]
+        },
+        {
+          "id": 95,
+          "darija": "بغا",
+          "phonetic": "bghā",
+          "arabicScript": "بْغَى",
+          "msaEquivalent": "أراد",
+          "region": "Marrakech",
+          "usageDarija": [
+            "بغيت نخرج اليوم.",
+            "بغا يشري كتاب جديد.",
+            "بغيت نتعلم اللغة الإسبانية."
+          ],
+          "usageFrench": [
+            "Je veux sortir aujourd'hui.",
+            "Il veut acheter un nouveau livre.",
+            "Je veux apprendre l'espagnol."
+          ],
+          "usageEnglish": [
+            "I want to go out today.",
+            "He wants to buy a new book.",
+            "I want to learn Spanish."
+          ]
+        },
+        {
+          "id": 96,
+          "darija": "لقى",
+          "phonetic": "lqa",
+          "arabicScript": "لْقَى",
+          "msaEquivalent": "وجد",
+          "region": "Fes",
+          "usageDarija": [
+            "لقيت الفلوس اللي ضاعت مني.",
+            "لقى الطريق للدار بسهولة.",
+            "لقيت الحل للمشكلة."
+          ],
+          "usageFrench": [
+            "J'ai trouvé l'argent que j'avais perdu.",
+            "Il a trouvé le chemin de la maison facilement.",
+            "J'ai trouvé la solution au problème."
+          ],
+          "usageEnglish": [
+            "I found the money I lost.",
+            "He found the way home easily.",
+            "I found the solution to the problem."
+          ]
+        },
+        {
+          "id": 97,
+          "darija": "ضحك",
+          "phonetic": "d7k",
+          "arabicScript": "ضْحَكْ",
+          "msaEquivalent": "ضحك",
+          "region": "Tangier",
+          "usageDarija": [
+            "ضحكت حتى دمعت عيني.",
+            "ضحكو الأطفال على القصة.",
+            "ضحك معايا فالنكتة."
+          ],
+          "usageFrench": [
+            "J'ai ri jusqu'à en pleurer.",
+            "Les enfants ont ri à l'histoire.",
+            "Il a ri avec moi à la blague."
+          ],
+          "usageEnglish": [
+            "I laughed until I cried.",
+            "The children laughed at the story.",
+            "He laughed with me at the joke."
+          ]
+        },
+        {
+          "id": 98,
+          "darija": "تقل",
+          "phonetic": "tqll",
+          "arabicScript": "تْقَلْ",
+          "msaEquivalent": "ثقيل",
+          "region": "Agadir",
+          "usageDarija": [
+            "الصندوق تقيل بزاف.",
+            "تقل عليا بالأسئلة.",
+            "حسيت برأسي تقيل من بعد العشا."
+          ],
+          "usageFrench": [
+            "La boîte est très lourde.",
+            "Il m'a accablé de questions.",
+            "Je me suis senti lourd après le dîner."
+          ],
+          "usageEnglish": [
+            "The box is very heavy.",
+            "He overwhelmed me with questions.",
+            "I felt heavy after dinner."
+          ]
+        },
+        {
+          "id": 99,
+          "darija": "سهل",
+          "phonetic": "shl",
+          "arabicScript": "سْهَلْ",
+          "msaEquivalent": "سهل",
+          "region": "Casablanca",
+          "usageDarija": [
+            "السؤال كان سهل.",
+            "الحياة ساهلة هنا.",
+            "مشي سهل نلقى الحل."
+          ],
+          "usageFrench": [
+            "La question était facile.",
+            "La vie est facile ici.",
+            "Ce n'est pas facile de trouver une solution."
+          ],
+          "usageEnglish": [
+            "The question was easy.",
+            "Life is easy here.",
+            "It's not easy to find a solution."
+          ]
+        },
+        {
+          "id": 100,
+          "darija": "صعب",
+          "phonetic": "s3b",
+          "arabicScript": "صْعْبْ",
+          "msaEquivalent": "صعب",
+          "region": "Rabat",
+          "usageDarija": [
+            "كان صعب نقرا الدرس.",
+            "الموضوع صعب عليا.",
+            "القرار كان صعيب."
+          ],
+          "usageFrench": [
+            "Il était difficile de lire la leçon.",
+            "Le sujet était difficile pour moi.",
+            "La décision était difficile."
+          ],
+          "usageEnglish": [
+            "It was difficult to read the lesson.",
+            "The subject was difficult for me.",
+            "The decision was tough."
+          ]
+        }
+      ]
+    }
+    
+  
